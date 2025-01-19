@@ -11,7 +11,7 @@ namespace Dusted
     {
         private const string modGUID = "ZetaArcade.Dusted";
         private const string modName = "Dusted";
-        private const string modVersion = "1.0.0";
+        private const string modVersion = "1.0.1";
         private readonly Harmony harmony = new Harmony(modGUID);
         private void Awake()
         {
